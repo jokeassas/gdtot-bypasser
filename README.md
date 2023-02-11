@@ -5,7 +5,7 @@ A web scraper to convert GDToT links to Google Drive and direct download links
 ### Installation
 Clone this repository
 ```
-git clone https://github.com/viperadnan-git/gdtot-bypasser
+git clone https://github.com/jokeassas/gdtot-bypasser
 cd gdtot-bypasser
 ```
 
